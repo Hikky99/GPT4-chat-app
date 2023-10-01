@@ -31,11 +31,7 @@ This project is a Chat App powered by the OPENAI GPT-4 API. It enables users to 
 ### Scope
 The documentation covers installation, architecture, API integration, security, deployment, and more.
 
-### Project Contributors
-- [Hamza Mohammed]
-- ...
 
----
 
 ## Getting Started
 
